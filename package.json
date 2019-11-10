@@ -1,5 +1,5 @@
 {
-  "name": "governance-tamplate",
+  "name": "solGrined",
   "version": "0.0.1",
   "description": "Implementation of Pederson Commitment in Solidity",
   "main": "truffle-config.js",
