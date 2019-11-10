@@ -26,9 +26,12 @@
   "dependencies": {
     "@truffle/hdwallet-provider": "1.0.23",
     "dotenv": "^8.2.0",
-    "truffle": "5.0.40",
+    "truffle": "5.0.40"
   },
   "devDependencies": {
     "solidity-docgen": "0.3.1"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
