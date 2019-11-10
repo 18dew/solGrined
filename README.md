@@ -6,4 +6,6 @@ Implementation of Pederson commitment in solidity.
    - Confidential assets based ERC20. 
    - Services like CJ. 
    
+   Pederson Commitment = ( FHE + ZK ) 
+   
    ( Contact for more information ) 
